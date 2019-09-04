@@ -263,6 +263,7 @@ header {
 	width: 100%;
 	background-color: rgba(255, 255, 255, 0.979);
 	box-shadow: 0 2px 2px #efefef;
+	z-index: 9999;
 }
 
 .sticky .main-nav li a:link,
@@ -271,7 +272,7 @@ header {
 	color: #555;
 }
 
-.main-nav {
+.sticky .main-nav {
 	margin-top: 18px;
 }
 

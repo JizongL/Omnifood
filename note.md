@@ -25,3 +25,7 @@
 [Tool tips](http://iamceege.github.io/tooltipster/#demos)
 
 [Waypoints](http://imakewebthings.com/waypoints/)
+
+[smooth scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+
+[Animate CSS](https://daneden.github.io/animate.css/)

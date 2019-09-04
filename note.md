@@ -16,3 +16,12 @@
 [css trick glyphs](https://css-tricks.com/snippets/html/glyphs/)
 
 [social media colors hex and rgb](https://www.designpieces.com/2012/12/social-media-colours-hex-and-rgb/)
+
+[JSdelivr](https://www.jsdelivr.com/)
+
+### Jquery
+[Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/)
+
+[Tool tips](http://iamceege.github.io/tooltipster/#demos)
+
+[Waypoints](http://imakewebthings.com/waypoints/)

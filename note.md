@@ -34,3 +34,5 @@
 [Optimizilla image compress](https://imagecompressor.com/)
 
 [compressing css](http://www.minifycss.com/css-compressor/)
+
+[HTML validation]()

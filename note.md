@@ -29,3 +29,8 @@
 [smooth scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 
 [Animate CSS](https://daneden.github.io/animate.css/)
+
+### Optimizing
+[Optimizilla image compress](https://imagecompressor.com/)
+
+[compressing css](http://www.minifycss.com/css-compressor/)

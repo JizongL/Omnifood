@@ -96,4 +96,17 @@ $(document).ready(function() {
 			offset: '50%'
 		}
 	);
+
+	/* mobile nav  */
+
+	$('.mobile-nav-icon').click(function() {
+		var nav = $('.js--main-nav');
+		var icon = $('.mobile-nav-icon ion-icon');
+		if (icon.prop('name') === 'menu') {
+			icon.attr('name', 'close');
+		} else {
+			icon.attr('name', 'menu');
+		}
+		nav.slideToggle(200);
+	});
 });
